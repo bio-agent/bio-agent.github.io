@@ -288,4 +288,4 @@ defaults:
       author_profile: true
       share: false
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
