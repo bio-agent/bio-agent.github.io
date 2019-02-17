@@ -1,8 +1,0 @@
-# main links
-main:
-  - title: "Posty wg kategorii"
-    url: /categories/
-  - title: "Posty wg tagów"
-    url: /tags/
-  # - title: "Sitemap"
-  #   url: /sitemap/
